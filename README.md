@@ -1,5 +1,6 @@
 # Rubblish-master 智能垃圾分类系统
 # 源码获取：https://mbd.pub/o/bread/YZWXlZ1yZg==
+# 源码获取：咨询定制加微jsjbyzd
 ## 项目概述
 
 Rubblish-master 是一个基于深度学习的智能垃圾分类系统，采用Flask框架构建Web应用，集成ResNet50模型实现6类垃圾的自动识别分类。系统提供完整的用户管理、图像识别、数据可视化功能。
